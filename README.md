@@ -21,4 +21,4 @@ A **Diablo-inspired** text-based RPG where you battle fierce enemies in a dark, 
 
 ## 👨‍💻 Developers
 
-- **Jericho G. Delos Reyes** - Developer & Game Designer
+- **Jericho G. Delos Reyes**
